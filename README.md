@@ -48,7 +48,7 @@ Sin grid de columnas
   Iconos Bootstrap Icons
   Clases de alineación (text-center, justify-content-center)
 
-#Descripción de commits y mejoras implementadas
+# Descripción de commits y mejoras implementadas
 -Estructura base: Creación del HTML inicial, inclusión de Bootstrap CDN y estructura básica con navbar y hero.
 
 -Sección de información: Añadida una sección con descripción del evento, implementación de tabla de horarios y mejora de estructura responsive.
