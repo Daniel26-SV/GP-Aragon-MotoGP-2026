@@ -1,6 +1,3 @@
-# Web-con-Bootstrap
-Vive el Gran Premio de motociclismo en Motorland Aragon. Disfruta de los mejores pilotos del mundo, conócelos y vive una experiencia VIP única.
-
 # Descripción
 Este proyecto consiste en el desarrollo de una página web informativa para promocionar el Gran Premio de Aragón de MotoGP 2026, celebrado en el circuito MotorLand Aragón y perteneciente al campeonato MotoGP.
 
