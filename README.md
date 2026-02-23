@@ -38,7 +38,7 @@ Sin grid de columnas
 # Componentes prediseñados de Bootstrap usados
   Navbar responsive (navbar, navbar-toggler, collapse)
   
-  Grid system (container, row, col-*)
+  Grid system (container, row, col-)
   Cards (card, card-body, card-img-top)
   Tabla (table, table-striped, table-bordered, table-dark)
   List group (list-group, list-group-item)
@@ -47,3 +47,22 @@ Sin grid de columnas
   Tipografía (display-1, fw-bold, lead)
   Iconos Bootstrap Icons
   Clases de alineación (text-center, justify-content-center)
+
+#Descripción de commits y mejoras implementadas
+-Estructura base: Creación del HTML inicial, inclusión de Bootstrap CDN y estructura básica con navbar y hero.
+
+-Sección de información: Añadida una sección con descripción del evento, implementación de tabla de horarios y mejora de estructura responsive.
+
+-Evento de firmas: Creación de grid con tarjetas de pilotos, inclusión de imágenes y horarios y ajustes de responsive con diferentes breakpoints.
+
+-Sección sorteo: Incorporación de imagen destacada, texto promocional centrado y mejora visual con fondo oscuro.
+
+-Experiencia VIP: Botón de llamada a la acción y ajustes de espaciado.
+
+-Estilos personalizados: Personalización de colores, ajuste de hero con overlay y estilos para cards y botones.
+
+-Footer: Añadido footer con redes sociales, inclusión de iconos y ajustes finales de diseño.
+
+#Mayor dificultad encontrada y solución aportada
+Implementación de la sección hero con una imagen de fondo, en la que el texto principal podía perder legibilidad dependiendo de la zona de la imagen, ya que había partes con colores claros que dificultaban la lectura.
+Para ello opté crear una capa superpuesta con un fondo semitransparente usando rgba y poniendo posicionamiente absoluto para que ocupara toda la sección, haciendo que mejorara el contraste del texto manteniendo la estética visual y garantizando accesibilidad y legibilidad.
