@@ -36,17 +36,25 @@ Sin grid de columnas
   Contenedor simple centrado sin grid específico
 
 # Componentes prediseñados de Bootstrap usados
-  Navbar responsive (navbar, navbar-toggler, collapse)
+  -Navbar responsive (navbar, navbar-toggler, collapse)
   
-  Grid system (container, row, col-)
-  Cards (card, card-body, card-img-top)
-  Tabla (table, table-striped, table-bordered, table-dark)
-  List group (list-group, list-group-item)
-  Botones (btn, btn-lg)
-  Utilidades de espaciado (py-5, mb-4, mt-4)
-  Tipografía (display-1, fw-bold, lead)
-  Iconos Bootstrap Icons
-  Clases de alineación (text-center, justify-content-center)
+  -Grid system (container, row, col-)
+  
+  -Cards (card, card-body, card-img-top)
+  
+  -Tabla (table, table-striped, table-bordered, table-dark)
+  
+  -List group (list-group, list-group-item)
+  
+  -Botones (btn, btn-lg)
+  
+  -Utilidades de espaciado (py-5, mb-4, mt-4)
+  
+  -Tipografía (display-1, fw-bold, lead)
+  
+  -Iconos Bootstrap Icons
+  
+  -Clases de alineación (text-center, justify-content-center)
 
 # Descripción de commits y mejoras implementadas
 -Estructura base: Creación del HTML inicial, inclusión de Bootstrap CDN y estructura básica con navbar y hero.
@@ -63,6 +71,6 @@ Sin grid de columnas
 
 -Footer: Añadido footer con redes sociales, inclusión de iconos y ajustes finales de diseño.
 
-#Mayor dificultad encontrada y solución aportada
+# Mayor dificultad encontrada y solución aportada
 Implementación de la sección hero con una imagen de fondo, en la que el texto principal podía perder legibilidad dependiendo de la zona de la imagen, ya que había partes con colores claros que dificultaban la lectura.
 Para ello opté crear una capa superpuesta con un fondo semitransparente usando rgba y poniendo posicionamiente absoluto para que ocupara toda la sección, haciendo que mejorara el contraste del texto manteniendo la estética visual y garantizando accesibilidad y legibilidad.
