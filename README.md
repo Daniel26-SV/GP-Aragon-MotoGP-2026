@@ -37,6 +37,7 @@ Sin grid de columnas
 
 # Componentes prediseñados de Bootstrap usados
   Navbar responsive (navbar, navbar-toggler, collapse)
+  
   Grid system (container, row, col-*)
   Cards (card, card-body, card-img-top)
   Tabla (table, table-striped, table-bordered, table-dark)
