@@ -69,7 +69,7 @@ Sin grid de columnas
 
 -Estilos personalizados: Personalización de colores, ajuste de hero con overlay y estilos para cards y botones.
 
--Footer: Añadido footer con redes sociales, inclusión de iconos y ajustes finales de diseño.
+-Footer: Añadido footer con redes sociales, iconos y ajustes finales de diseño.
 
 # Mayor dificultad encontrada y solución aportada
 Implementación de la sección hero con una imagen de fondo, en la que el texto principal podía perder legibilidad dependiendo de la zona de la imagen, ya que había partes con colores claros que dificultaban la lectura.
