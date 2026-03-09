@@ -22,12 +22,12 @@ Sin grid de columnas
   Grid principal con row
   
   Tarjetas en:
-  col-md-4 → 3 columnas en pantallas medianas
-  col-sm-6 → 2 columnas en pantallas pequeñas
+  col-md-4: 3 columnas en pantallas medianas
+  col-sm-6: 2 columnas en pantallas pequeñas
 
 -Sorteo exclusivo:
-  Imagen en col-12 → ancho completo
-  Texto en col-lg-10 → 10 columnas
+  Imagen en col-12: ancho completo
+  Texto en col-lg-10: 10 columnas
 
 -Experiencia VIP:
   Contenido centrado en col-lg-8 → 8 columnas
