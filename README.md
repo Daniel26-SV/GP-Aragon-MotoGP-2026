@@ -57,11 +57,11 @@ Sin grid de columnas
   -Clases de alineación (text-center, justify-content-center)
 
 # Descripción de commits y mejoras implementadas
--Estructura base: Creación del HTML inicial, inclusión de Bootstrap CDN y estructura básica con navbar y hero.
+-Estructura base: Creación del HTML inicial, implementación de Bootstrap CDN y estructura básica con navbar y hero.
 
 -Sección de información: Añadida una sección con descripción del evento, implementación de tabla de horarios y mejora de estructura responsive.
 
--Evento de firmas: Creación de grid con tarjetas de pilotos, inclusión de imágenes y horarios y ajustes de responsive con diferentes breakpoints.
+-Evento de firmas: Creación de grid con tarjetas de pilotos, implementación de imágenes y horarios y ajustes de responsive con diferentes breakpoints.
 
 -Sección sorteo: Incorporación de imagen destacada, texto promocional centrado y mejora visual con fondo oscuro.
 
