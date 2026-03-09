@@ -16,7 +16,7 @@ Sin grid de columnas
 -Información del evento
   Contenedor principal con container
   Fila centrada con row justify-content-center
-  Contenido en col-lg-8 → 8 columnas
+  Contenido en col-lg-8 con 8 columnas
 
 -Evento de firmas:
   Grid principal con row
@@ -30,7 +30,7 @@ Sin grid de columnas
   Texto en col-lg-10: 10 columnas
 
 -Experiencia VIP:
-  Contenido centrado en col-lg-8 → 8 columnas
+  Contenido centrado en col-lg-8 con 8 columnas
 
 -Footer:
   Contenedor simple centrado sin grid específico
